@@ -1,0 +1,13 @@
+.time_picker_button {
+  padding: 5px 10px;
+  background-color: transparent;
+  display: inline-block;
+  color: #949494;
+  opacity: 0.6;
+  transition: opacity 0.2s;
+  box-shadow: none;
+}
+
+.time_picker_button:hover {
+  opacity: 1;
+}

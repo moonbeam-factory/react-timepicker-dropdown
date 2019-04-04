@@ -1,0 +1,44 @@
+@import "./base.css";
+@import "./button.css";
+@import "./timezone.css";
+
+.dark .time_picker_preview {
+}
+
+.dark .time_picker_preview .preview_container svg {
+}
+
+.dark .time_picker_preview.active {
+}
+
+.dark .time_picker_modal_container {
+  background-color: #4a4a4a;
+}
+
+.dark .time_picker_modal_header,
+.dark .time_picker_modal_footer {
+  background-color: #343434;
+}
+
+.dark .time_picker_modal_header .time_picker_header.active,
+.dark .time_picker_modal_header .time_picker_header:hover {
+}
+
+.dark .picker_container {
+  background-color: #4a4a4a;
+}
+
+.dark .picker_container .picker_center,
+.dark .picker_container .picker_pointer,
+.dark .picker_container .picker_pointer .pointer_drag{
+  background-color: #F4511E;
+}
+
+.dark .picker_minute_point,
+.dark .picker_point.point_outter {
+  color: #fff;
+}
+
+.dark .picker_point.point_inner {
+  color: #D0D0D0;
+}

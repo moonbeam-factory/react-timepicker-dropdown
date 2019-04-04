@@ -1,0 +1,12 @@
+/components/
+/examples
+/stories
+/webpack
+/.storybook
+/intro_src
+/test
+/src
+/.coveralls.yml
+/.travis.yml
+/webpack.config.js
+/doc
